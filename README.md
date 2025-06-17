@@ -31,5 +31,39 @@ Welcome to my personal portfolio website! This responsive and interactive site s
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🧠 Projects Highlighted
+
+- **Credit Card Fraud Detection** – A web app to detect fraudulent credit card transactions using Node.js and Express.
+- **This Portfolio Website** – Showcasing my journey and capabilities.
+
+---
+
+## 📞 Contact
+
+📧 Email: tarushydv05@gmail.com  
+📍 Location: Delhi, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/tarush-yadav-863551297/)  
+💻 [GitHub](https://github.com/tarush5)
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE) - feel free to use and customize it.
+
+---
+
+## 🙏 Acknowledgments
+
+- Font Awesome for icons  
+- Google Fonts for typography  
+- Open source inspirations across GitHub
+
+---
+
+> Designed and developed by **Tarush Yadav** with 💙 passion for code and creativity.
+
 
