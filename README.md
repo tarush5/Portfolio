@@ -1,6 +1,10 @@
-# 💼 Tarush Yadav - Personal Portfolio Website
+# 💼 Personal Portfolio Website
 
 Welcome to my personal portfolio website! This responsive and interactive site showcases my background, technical skills, and featured projects in a modern and user-friendly design.
+
+
+![Screenshot 2025-06-17 230226](https://github.com/user-attachments/assets/612e5e20-e8dd-4eff-bb92-9889feb1d048)
+
 
 ## 🌐 Live Demo
 
