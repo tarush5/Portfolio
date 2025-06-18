@@ -3,7 +3,8 @@
 Welcome to my personal portfolio website! This responsive and interactive site showcases my background, technical skills, and featured projects in a modern and user-friendly design.
 
 
-![Screenshot 2025-06-17 230226](https://github.com/user-attachments/assets/612e5e20-e8dd-4eff-bb92-9889feb1d048)
+![Screenshot 2025-06-18 163533](https://github.com/user-attachments/assets/32135ae7-b91d-4caf-84c4-cd7315b809a7)
+
 
 
 ## 🌐 Live Demo
